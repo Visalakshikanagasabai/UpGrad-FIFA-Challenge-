@@ -3,10 +3,10 @@
 
 2.Objective : Predicting Foot ball world cup winner using poison distribution. 
 
-Poisson Distribution, coupled with historical data, provides a simple and reliable method for calculating the most likely score
+Poisson Distribution, coupled with historical data, provides a simple and reliable method for calculating the most likely score in
 football macthes which can be used for predicting the winner of the match.
 
-In this sample, Python language is used to develop the poison distribution model to predic the winner
+In this sample, Python language is used to develop the poison distribution model to predict the winner
 
 3.Results from this model
 
